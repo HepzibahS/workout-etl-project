@@ -1,0 +1,16 @@
+# Ignore Word temp files
+~$*
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore CSVs or data files (optional, if you don’t want raw data in repo)
+data/*.csv
